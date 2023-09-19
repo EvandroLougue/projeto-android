@@ -41,7 +41,7 @@ body {
 }
 header {
     background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
-    margin: -10px;
+    margin: -20px -8px;
     padding-top: 20px;
     padding-left: 10px;
     padding-bottom: 1px;
@@ -146,8 +146,9 @@ div.video > iframe {
 footer {
     background-color: var(--cor5);
     color: white;
-    margin: 10px -20px;
+    margin-left: -8px;
     margin-bottom: -20px;
+    margin-right: -8px;
 }
 footer > p {
     text-align: center;
